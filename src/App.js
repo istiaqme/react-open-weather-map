@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 
 function App() {
-  const [query, setQuery] = useState("Write a City name and press Enter");
+  const [query, setQuery] = useState("City");
   const [weather, setWeather] = useState({});
   const api = {
     key : "7eebee56000e7561140131e1ba2507b7",
