@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-open-weather-map/static/css/main.e1025abc.chunk.css",
+    "main.js": "/react-open-weather-map/static/js/main.e7d96cca.chunk.js",
+    "main.js.map": "/react-open-weather-map/static/js/main.e7d96cca.chunk.js.map",
+    "runtime-main.js": "/react-open-weather-map/static/js/runtime-main.248622f7.js",
+    "runtime-main.js.map": "/react-open-weather-map/static/js/runtime-main.248622f7.js.map",
+    "static/js/2.82dde356.chunk.js": "/react-open-weather-map/static/js/2.82dde356.chunk.js",
+    "static/js/2.82dde356.chunk.js.map": "/react-open-weather-map/static/js/2.82dde356.chunk.js.map",
+    "index.html": "/react-open-weather-map/index.html",
+    "precache-manifest.3d2f1dbb7fdade4ad56e3b17abeeb86c.js": "/react-open-weather-map/precache-manifest.3d2f1dbb7fdade4ad56e3b17abeeb86c.js",
+    "service-worker.js": "/react-open-weather-map/service-worker.js",
+    "static/css/main.e1025abc.chunk.css.map": "/react-open-weather-map/static/css/main.e1025abc.chunk.css.map",
+    "static/js/2.82dde356.chunk.js.LICENSE.txt": "/react-open-weather-map/static/js/2.82dde356.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-open-weather-map/static/media/bg.028e152c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248622f7.js",
+    "static/js/2.82dde356.chunk.js",
+    "static/css/main.e1025abc.chunk.css",
+    "static/js/main.e7d96cca.chunk.js"
+  ]
+}
