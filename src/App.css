@@ -1,0 +1,40 @@
+body {
+  display: block;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: "Roboto";
+}
+.search-box{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  width: 50%;
+  border: 2px solid white;
+  background-color: rgba(36, 64, 81, 0.2);
+  color: #E6E6FA;
+  font-size: 16px;
+  padding: 10px;
+}
+.weather-result{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  width: 50%;
+  border: 1px solid #d4d4d4;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #E6E6FA;
+  padding: 10px;
+  text-align: center;
+}
+.temperature{
+  color: #FFF;
+  font-size: 100px;
+  font-weight: 900;
+  text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
+}
