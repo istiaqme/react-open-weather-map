@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94c60aeb8e3705306ef16fcc40543c70",
+    "revision": "b6854fbae91ee263f2fa53a7753068bc",
     "url": "/react-open-weather-map/index.html"
   },
   {
-    "revision": "6264b3e202c217a27a99",
-    "url": "/react-open-weather-map/static/css/main.e1025abc.chunk.css"
+    "revision": "b0e3f87a41d76f6ee75d",
+    "url": "/react-open-weather-map/static/css/main.5a92c1b3.chunk.css"
   },
   {
     "revision": "a63b11e797426ead8c1a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-open-weather-map/static/js/2.82dde356.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6264b3e202c217a27a99",
+    "revision": "b0e3f87a41d76f6ee75d",
     "url": "/react-open-weather-map/static/js/main.e7d96cca.chunk.js"
   },
   {
